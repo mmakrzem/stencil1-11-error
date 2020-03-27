@@ -4,7 +4,7 @@ run:
 
 ```bash
 npm install
-npm start
+npm run start
 npm run test
-npm start
+npm run start
 ```
