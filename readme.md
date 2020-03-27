@@ -1,5 +1,5 @@
 
-# Bug in Stencil
+# Bug in Stencil v1.10.x and 1.11.x
 run:
 
 ```bash
