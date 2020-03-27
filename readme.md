@@ -1,6 +1,6 @@
 
 # Bug in Stencil v1.10.x and 1.11.x
-run:
+run the following commands from a Windows command prompt:
 
 ```bash
 npm install
